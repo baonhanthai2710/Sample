@@ -1,0 +1,26 @@
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\bin\Debug\lab week 1.exe.config
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\bin\Debug\lab week 1.exe
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\bin\Debug\lab week 1.pdb
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\bin\Debug\System.Data.SqlClient.dll
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\bin\Debug\System.Data.SqlClient.xml
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab week 1.csproj.AssemblyReference.cache
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab_week_1.FStudent.resources
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab_week_1.Properties.Resources.resources
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab week 1.csproj.GenerateResource.cache
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab week 1.csproj.CoreCompileInputs.cache
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab week 1.csproj.CopyComplete
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab week 1.exe
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1 (17-1)\lab week 1\obj\Debug\lab week 1.pdb
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\bin\Debug\lab week 1.exe.config
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\bin\Debug\lab week 1.exe
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\bin\Debug\lab week 1.pdb
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\bin\Debug\System.Data.SqlClient.dll
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\bin\Debug\System.Data.SqlClient.xml
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab week 1.csproj.AssemblyReference.cache
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab_week_1.FStudent.resources
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab_week_1.Properties.Resources.resources
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab week 1.csproj.GenerateResource.cache
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab week 1.csproj.CoreCompileInputs.cache
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab week 1.csproj.CopyComplete
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab week 1.exe
+N:\CNTT (Năm 2 - HK2)\Window Programming\Week1  + week 2 (17-1) - (24-1)\lab week 1\obj\Debug\lab week 1.pdb
