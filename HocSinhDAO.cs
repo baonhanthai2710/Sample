@@ -15,6 +15,8 @@ namespace lab_week_1
     internal class HocSinhDAO
     {
         //thay doi lan 1
+        //cap nhat nhanh con
+        //cap nhat nhanh con lan mot
         SqlConnection conn = new SqlConnection(Properties.Settings.Default.connStr);
         DBConnection dbConnection = new DBConnection();
         public HocSinhDAO()
